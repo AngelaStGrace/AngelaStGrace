@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngelaStGrace
 - 👀 I’m interested in Interested in AR/VR/XR, Xcode, and cross-platform desktop/mobile development. 
-- 🌱 I’m currently learning![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- 🌱 I’m currently learning![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=xcode&logoColor=white)
 - 💞️ I’m looking to collaborate on an Overlay app and AR/XR performance
 - 📫 How to reach me[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cararicketts/)
 
