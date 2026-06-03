@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngelaStGrace
 - 👀 I’m interested in ...Interested in AR/VR/XR, Xcode, and cross-platform desktop/mobile development. 
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - 💞️ I’m looking to collaborate on ...An Overlay app, XR performance
 - 📫 How to reach me ...cara@cararicketts.com
 
