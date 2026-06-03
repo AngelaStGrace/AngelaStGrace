@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngelaStGrace
-- 👀 I’m interested in ...AR/VR XR, XCODE, DESKTOP Apps and mobile. Learning code, Flutter
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ...Interested in AR/VR/XR, Xcode, and cross-platform desktop/mobile development. 
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...An Overlay app, XR performance
 - 📫 How to reach me ...cara@cararicketts.com
 
